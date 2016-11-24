@@ -1,0 +1,5 @@
+Domain/bin/
+Domain.Tests/bin/
+Domain/obj/
+Domain.Tests/obj/
+packages/
