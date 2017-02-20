@@ -202,7 +202,7 @@ testRunner.When("I add 1 book(s) of volume 1 to basket", ((string)(null)), ((Tec
 #line 50
        testRunner.And("I add 2 book(s) of volume 3 to basket", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line 51
-testRunner.Then("The basket price is 36.00 euros", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+testRunner.Then("The basket price is 36.80 euros", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             this.ScenarioCleanup();
         }

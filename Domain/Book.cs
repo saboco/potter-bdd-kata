@@ -3,7 +3,7 @@
     public class Book
     {
         public decimal Price { get; private set; }
-        public object VolumeNumber { get; set; }
+        public int VolumeNumber { get; set; }
 
         public Book()
         {
